@@ -84,8 +84,8 @@ export const websiteConfig = {
         icon: "mdi-trophy",
         enabled: true,
         // 外链配置：如果external为true，则点击跳转到externalUrl
-        external: false, // 是否启用外链模式
-        externalUrl: "", // 外链地址（仅在external为true时生效）
+        external: true, // 是否启用外链模式
+        externalUrl: "http://mc.wumingx.top:31234/", // 外链地址（仅在external为true时生效）
         pageTitle: {
           mainTitle: {
             texts: ["玩家排行榜", "DCS Leaderboard"],
