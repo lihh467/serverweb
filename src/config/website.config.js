@@ -79,7 +79,7 @@ export const websiteConfig = {
         }
       },
       {
-        name: "排行榜",
+        name: "服务器网站",
         path: "/leaderboard",
         icon: "mdi-trophy",
         enabled: true,
