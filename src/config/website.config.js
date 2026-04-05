@@ -198,7 +198,7 @@ export const websiteConfig = {
     // 页面显示的服务器地址
     displayAddress: "frp-hip.com:23047",
     // API请求使用的服务器地址（可以不同）
-    apiAddress: "frp-hip.com",
+    apiAddress: "123.184.216.106",
     port: "23047",
     version: "1.21.11",
     apiEndpoint: "https://api.mcstatus.io/v2/status/java",
